@@ -1,6 +1,6 @@
 {
-    "name": "shishitui/tools",
-    "description": "shishitui tool package",
+    "name": "rtpush/tools",
+    "description": "rtpush tool package",
     "license": "MIT",
     "type": "project",
     "require": {
@@ -14,8 +14,7 @@
     ],
     "autoload-dev": {
         "files": [
-            "CurlTool.php",
-            "wxmsgcrypt"
+            "CurlTool.php"
         ]
     }
   
